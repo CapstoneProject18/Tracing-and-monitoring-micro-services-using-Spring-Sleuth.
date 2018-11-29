@@ -1,2 +1,2 @@
-# Tracing-and-monitoring-micro-services-using-Spring-Sleuth.
-"A simple user action might trigger a chain of downstream microservice calls. It would be tedious to trace the logs related to a particular user action across microservices. In addition to that, we might want to track down why a certain microservice call is taking so much time. We can use Spring Cloud Sleuth to handle these kinds of issues. Spring Cloud Sleuth provides the distributed tracing capabilities and we can also export these trace information to Zipkin to visualize the call traces. "
+# A simple microservice depicting currency exchange.
+Basically this microservice is the building block of the prototype upon which other microservices like currency-conversion will be built upon. Tools used: DevTools, Actuator, JPA
